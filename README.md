@@ -5,6 +5,5 @@
 
 > **My discord ->** `sax#1926`
 
->[![sax's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxnbt?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
->[![sax's Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saxnbt?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![sax's GitHub stats](https://github-readme-stats.vercel.app/api?username=saxnbt&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![sax's Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saxnbt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
