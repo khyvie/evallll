@@ -5,5 +5,5 @@
 
 > **My site ->** [saxnbt.tk](https://saxnbt.tk)
 
-> **My discord ->** `sax#1926`
+> **My discord ->** `sax#1296`
 
